@@ -9,6 +9,29 @@ The binary search algorithm repeatedly divides a sorted list in half (usually ro
 - Repeats until target found or until exhuasted and there is no target
 
 ## Demo video/screenshot of test
+### Testing
+- Target Found (2 images stitched together)
+![Target Found](Screenshots & Demo/Target Found.png)
+- Target Not Found (2 images stitched together)
+![Target Not Found](Screenshots & Demo/Target Not Found.png)
+- Hidden Array Test (2 images stitched together)
+![Hidden Array Test](Screenshots & Demo/Hidden Array Test.png)
+- Many Elements in Array Test
+![Long Array](Screenshots & Demo/Long Array Test.png)
+- Single Array Test Manual
+![Single Array](Screenshots & Demo/Single Array Test.png)
+- Letter Error
+![Letter Error](Screenshots & Demo/Letter Error.png)
+- Decimal Number Error
+![Decimal Error](Screenshots & Demo/Decimal Error.png)
+- Comma/Space/Null in Array Error
+![Comma Space Error](Screenshots & Demo/Comma Space Error.png)
+- Negative Number of Values Error 
+![Negative Array Length Error](Screenshots & Demo/Negative # Values Error.png)
+- Empty Array Error Manual
+![Empty Array Error Manual](Screenshots & Demo/Empty Manual Error.png)
+- Empty Array Error Random
+![Empty Array Error Random](Screenshots & Demo/Empty Random Error.png)
 
 ### Features
 This project is an interactive visualization tool that demonstrates how the binary search algorithm works step-by-step. Users can either generate a random sorted array or input their own custom array, and observe how the algorithm narrows down the search range.
