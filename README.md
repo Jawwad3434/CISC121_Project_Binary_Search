@@ -11,27 +11,38 @@ The binary search algorithm repeatedly divides a sorted list in half (usually ro
 ## Demo video/screenshot of test
 ### Testing
 - Target Found (2 images stitched together)
-![Target Found](Screenshots & Demo/Target Found.png)
+<img width="1960" height="1612" alt="Target Found" src="https://github.com/user-attachments/assets/671ab6e4-5aa8-4f42-82c4-d232fd561253" />
+
 - Target Not Found (2 images stitched together)
-![Target Not Found](Screenshots & Demo/Target Not Found.png)
+<img width="1984" height="1770" alt="Target Not Found" src="https://github.com/user-attachments/assets/7ac9d4df-58c5-4259-9d94-5a1c6aba331a" />
+
 - Hidden Array Test (2 images stitched together)
-![Hidden Array Test](Screenshots & Demo/Hidden Array Test.png)
+<img width="1601" height="2243" alt="Hidden Array Test" src="https://github.com/user-attachments/assets/a54aecca-3d34-484a-977d-a2aa4d8cd75b" />
+
 - Many Elements in Array Test
-![Long Array](Screenshots & Demo/Long Array Test.png)
+<img width="1849" height="1086" alt="Long Array Test" src="https://github.com/user-attachments/assets/37ce1d3b-81af-4faa-a371-7d3e6e1d3254" />
+
 - Single Array Test Manual
-![Single Array](Screenshots & Demo/Single Array Test.png)
+<img width="1090" height="1114" alt="Single Array Test" src="https://github.com/user-attachments/assets/01de9e49-5b70-499b-9622-c4c3850e6680" />
+
 - Letter Error
-![Letter Error](Screenshots & Demo/Letter Error.png)
+<img width="1296" height="614" alt="Letter Error" src="https://github.com/user-attachments/assets/a8741b03-2826-4ed5-9ddf-73d9096d6563" />
+
 - Decimal Number Error
-![Decimal Error](Screenshots & Demo/Decimal Error.png)
+<img width="1336" height="714" alt="Decimal Error" src="https://github.com/user-attachments/assets/f1101f28-9c48-4822-a9c6-a6e771a211f7" />
+
 - Comma/Space/Null in Array Error
-![Comma Space Error](Screenshots & Demo/Comma Space Error.png)
+<img width="1287" height="694" alt="Comma Space Error" src="https://github.com/user-attachments/assets/9b52e163-a64b-4528-863d-1de3f8f525b7" />
+
 - Negative Number of Values Error 
-![Negative Array Length Error](Screenshots & Demo/Negative # Values Error.png)
+<img width="1220" height="1036" alt="Negative # Values Error" src="https://github.com/user-attachments/assets/96d99908-3873-44d2-941f-51ba98401b08" />
+
 - Empty Array Error Manual
-![Empty Array Error Manual](Screenshots & Demo/Empty Manual Error.png)
+<img width="1240" height="668" alt="Empty Manual Error" src="https://github.com/user-attachments/assets/48d2d750-8ae1-4615-adeb-9c5f81ebf9a2" />
+
 - Empty Array Error Random
-![Empty Array Error Random](Screenshots & Demo/Empty Random Error.png)
+<img width="1241" height="1053" alt="Empty Random Error" src="https://github.com/user-attachments/assets/f37cdff7-ae9e-4537-9e59-c33fdbdcf148" />
+
 
 ### Features
 This project is an interactive visualization tool that demonstrates how the binary search algorithm works step-by-step. Users can either generate a random sorted array or input their own custom array, and observe how the algorithm narrows down the search range.
