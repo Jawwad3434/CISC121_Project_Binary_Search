@@ -9,6 +9,8 @@ The binary search algorithm repeatedly divides a sorted list in half (usually ro
 - Repeats until target found or until exhuasted and there is no target
 
 ## Demo video/screenshot of test
+Video of demo linked here:
+https://youtu.be/G0qNTl__hfg
 ### Testing
 - Target Found (2 images stitched together)
 <img width="1960" height="1612" alt="Target Found" src="https://github.com/user-attachments/assets/671ab6e4-5aa8-4f42-82c4-d232fd561253" />
